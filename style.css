@@ -1,0 +1,21 @@
+body{
+width: 800px;
+background-color: Tan;
+margin: 0 auto;
+text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+input{
+  border: 5px solid green;
+}
+
+li{
+  float: left;
+  margin-left: 100px;
+  margin-right: 20px;
+  margin-top: 25px;
+}
